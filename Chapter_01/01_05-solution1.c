@@ -2,9 +2,8 @@
 
 int main()
 {
-	puts("My name is Dan Gookin");
-	puts("I am a C programmer");
+	puts("My name is Robson");
+	puts("I am a beginner C programmer");
 
-	return(9);
+	return (9);
 }
-
